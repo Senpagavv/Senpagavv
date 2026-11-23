@@ -1,5 +1,7 @@
 # Yubo Zhao · 赵禹博
 
+MSc student in Civil and Architectural Engineering at City University of Hong Kong. Interested in urban design and public space.
+
 I build interactive maps of Hong Kong’s neighbourhoods and try out AI agents for everyday tasks.
 
 I studied civil engineering at the University of Macau, where my team won the university division of the 2023 ASCE Structure Design Contest with a timber tower. I later helped test soil compaction on site as an intern at the Civil Engineering Laboratory of Macau.
